@@ -45,7 +45,7 @@ dependencies[] = views_ui
 dependencies[] = views_bulk_operations
 
 ; themes
-dependencies[] = liquid_coolness
+;dependencies[] = liquid_coolness
 
 
 
