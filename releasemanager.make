@@ -16,6 +16,8 @@ projects[entity][version] = "1.2"
 projects[entityreference][version] = "1.0"
 projects[features][version] = "1.0"
 projects[http_proxy][version] = "1.0"
+projects[link][version] = "1.2"
+
 projects[strongarm][version] = "2.0"
 projects[switch_user][version] = "1.0"
 projects[taxonomy_manager][version] = "1.0"
